@@ -1,0 +1,50 @@
+id,Title,Content,Tags,Creators,Formats,resource_url,resource_publication_date,resource_stars
+36,"Alan Alda's Flame Challenge presents: ""What Is Color?""","What is color? It seems like a simple question at first, but when you think about it, the reality of what we're seeing is a pretty complex situation. Our human eyes sift through a small piece of the vast electromagnetic spectrum and translate it into every color of the rainbow. But there are other animals that see these same wavelengths in different ways, or even see colors beyond what we can perceive! And not all color is dependent on wavelengths of light: the brains of certain people, called synesthetes, work in ways that let them see colors tied to music, words, or other stimuli. Watch as host Alan Alda takes you on a surreal, scientific tour of the spectrum with the help of vision researcher Jay Neitz, along with neuroscientists David Eagleman, Kaitlyn Hova, and Bevil Conway.",colors|science,"World Science Festival (http://www.worldsciencefestival.com/)",Lecture,https://www.youtube.com/watch?v=gAFWJGK0G_A,2014-07-08,5
+98,"Pragmatic Thinking and Learning: Refactor Your Wetware","Software development happens in your head. Not in an editor, <span class=""caps"">IDE</span>, or design tool. You’re well educated on how to work with software and hardware, but what about <em>wetware</em>—our own brains? Learning new skills and new technology is critical to your career, and it’s all in your head.
+
+In this book by Andy Hunt, you’ll learn how our brains are wired, and how to take advantage of your brain’s architecture. You’ll learn new tricks and tips to learn more, faster, and retain more of what you learn.
+
+You need a pragmatic approach to thinking and learning. You need to <em>Refactor Your Wetware.</em>",creativity|debugging|effectiveness|learning|pragmatism|programming|thinking,"Andy Hunt (http://blog.toolshed.com/)",Book,https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning,2008-09-15,5
+100,"Human Behavioral Biology","Multidisciplinary. How to approach complex normal and abnormal behaviors through biology. How to integrate disciplines including sociobiology, ethology, neuroscience, and endocrinology to examine behaviors such as aggression, sexual behavior, language use, and mental illness.",behavior|biology|endocrinology|ethology|neuroscience|psychology,"Robert Sapolsky (https://profiles.stanford.edu/robert-sapolsky)",Course,https://www.youtube.com/playlist?list=PL848F2368C90DDC3D,2011-02-01,5
+102,"The Neuroscience of Learning and Memory","Jeanette Norden, Professor of Cell and Developmental Biology, Emerita, Vanderbilt University School of Medicine, explores how the brain learns and remembers. This video focuses on a discussion of how the brain is organized in general.
+
+These lectures will provide the foundation
+information necessary to the understanding
+of the lectures which will follow. A special
+emphasis will be given to systems in the brain
+that underlie learning and memory, attention
+and awareness. These introductory lectures
+will be followed by a lecture on how different
+areas of the brain encode different, specific
+types of information—from the phone number
+we need only remember for a few minutes or
+less to the childhood memories we retain for
+a lifetime. We will also address the ""mistakes
+of memory"" which give insight as to how the
+brain actually encodes our life experiences.
+The last group of lectures in this series will
+focus on the many clinical conditions that can
+affect different types of learning and memory.
+Lastly, we will focus our discussion on the
+accumulating evidence that aging need not be
+associated with significant memory loss. We
+will discuss advancements in neuroscience that
+indicate ways to keep your brain healthy as
+you age.
+
+To learn more about Vanderbilt, visit <a class=""yt-uix-servicelink  "" href=""http://www.vanderbilt.edu/"" target=""_blank"" rel=""nofollow noopener"">http://www.vanderbilt.edu</a>.",alzheimer's|learning|memory|neuroscience,"Jeanette Norden (https://medschool.vanderbilt.edu/cdb/person/jeanette-j-norden-phd)",Lecture,https://www.youtube.com/watch?v=wtu-yAm4xik,2014-03-27,5
+104,"Learning and Memory: How it Works and When it Fails","Frank Longo, MD, PhD, George and Lucy Becker Professor, discusses the intricacy human mind and how different types of memory and memory loss function.
+
+Stanford Mini Med School is a series arranged and directed by Stanford's School of Medicine, and presented by the Stanford Continuing Studies program.",amnesia|learning|memory|neuroscience,"Frank Longo (https://profiles.stanford.edu/frank-longo)",Lecture,https://www.youtube.com/watch?v=a_HfSnQqeyY,2010-06-08,5
+106,"The Ultimate List of Free Stock Photography Sites","Strong design is based on strong imagery. Unfortunately, strong imagery requires a good photographer and that costs money. In the past we were limited to stock photography sites that charge ten quid an image or absolutely terrible free stock photography that cost you conversions.
+
+<i>Thankfully, things are changing.</i>
+
+There’s now hundreds of sites offering free or freemium stock photography services. But with the good comes the bad and that means much of our time is spent wading through the rubbish. What we needed was a list of the best free stock photography sites out there.
+<h3>So that’s what we created.</h3>
+Our article pulls together the best of the <strong>best free stock photography sites</strong> so you don’t have to, freeing up your time to do the important things like being creative.",free|photographies,"Digital Impact (https://www.digitalimpact.co.uk/)",Article,https://www.digitalimpact.co.uk/ultimate-list-of-free-stock-photos/,2016-01-11,4.5
+108,"Data Science Insights - The Improbability Principle","In this second Data Science Insights event Professor David Hand, Emeritus Professor of Mathematics at Imperial College London, spoke on the subject of his book, The Improbability Principle, about why incredibly unlikely things keep happening.
+Axel Threlfall, Lead Anchor for Reuters Television, chaired. This event was held at the Clore Lecture Theatre at Imperial's South Kensington Campus on March 11 2015.
+To find out more about Data Science Insights, visit www.imperial.ac.uk/data-science/events/data-science-insights",data|probability|science|statistics,"David Hand (http://www.imperial.ac.uk/people/d.j.hand)",Lecture,https://www.youtube.com/watch?v=G4uDBe28ryQ,2015-04-30,5
+110,"Lighting Ergonomics - Survey and Solutions","This document summarizes general ways to detect and solve some of the more common lighting problems. Information on how to conduct a more detailed (or formal) lighting survey is located under <a href=""http://www.ccohs.ca/oshanswers/ergonomics/lighting_survey.html#light"">How do you conduct a more detailed lighting survey?</a>.",computers|ergonomics|eyes|glare|lighting|strain,"Canadian Centre for Occupational Health and Safety (http://www.ccohs.ca/)",Document,http://www.ccohs.ca/oshanswers/ergonomics/lighting_survey.html,2013-08-28,5
+112,"Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems","The rules of battle for tracking down -- and eliminating -- hardware and software bugs. When the pressure is on to root out an elusive software or hardware glitch, what's needed is a cool head courtesy of a set of rules guaranteed to work on any system, in any circumstance. Written in a frank but engaging style, <i>Debugging</i> provides simple, foolproof principles guaranteed to help find any bug quickly. This book makes those shelves of application-specific debugging books (on C++, Perl, Java, etc.) obsolete. It changes the way readers think about debugging, making those pesky problems suddenly much easier to find and fix. Illustrating the rules with real-life bug-detection war stories, the book shows readers how to: * Understand the system: how perceiving the """"roadmap"""" can hasten your journey * Quit thinking and look: when hands-on investigation can't be avoided * Isolate critical factors: why changing one element at a time can be an essential tool * Keep an audit trail: how keeping a record of the debugging process can win the day""",debugging|effectiveness|programming,"David Agans (http://debuggingrules.com/)",Book,https://www.amazon.com/Debugging-Indispensable-Software-Hardware-Problems/dp/0814474578,2006-11-05,5
