@@ -1,5 +1,5 @@
-# knowledgemap.me
-This Github repository is used as the data repository for https://www.knowledgemap.me/. 
+# KnowledgeMap.me
+This is the open data repository for https://www.knowledgemap.me/. 
 
 You can find the file [Resources.csv](https://github.com/BorislavZlatanov/knowledgemap.me/blob/master/Resources.csv) here. It contains the public Resource data entered in https://www.knowledgemap.me/.
 
